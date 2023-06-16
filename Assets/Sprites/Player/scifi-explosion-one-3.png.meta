@@ -1,0 +1,5293 @@
+fileFormatVersion: 2
+guid: 8e495ed7a84369245af7c8413acfca4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1075
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aabafbe2337364da52366edc116c2b
+      internalID: -2098191599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1018
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff845a44ab792c64fa2d266f2c1e4cbc
+      internalID: -107492208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1014
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0fa74effa3c534cbf8881b846a57d9
+      internalID: -1129350052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1014
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6106bf9c5b977e4b99fb96b863cf2f9
+      internalID: 964798321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1014
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b489e7998615af4fbdfcfc912dc8e7f
+      internalID: 1590439283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1012
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1619ac6eaf1c95488614252aa94ead1
+      internalID: -15667849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_6
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1012
+        width: 190
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f599528da68a4e8f71cf0c0e7b8e2
+      internalID: -1364851477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_7
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1011
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262779dbde858d0499da4969c52f8bde
+      internalID: 164191446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_8
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1010
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658dbe980a8bbe448872643cca82a09
+      internalID: -112868080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_9
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1010
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc60f7738adf2f4c9564f9f92fc4c4d
+      internalID: 1464603706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_10
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1008
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641feff3498f3834c9ba4e3eec97a97d
+      internalID: 852700344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_11
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1008
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef86926ebcf1fa2499f3f6a80091744a
+      internalID: 46278928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_12
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1008
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a446c1a8dc69224b9c52f662d9c3df5
+      internalID: 742838526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_13
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1008
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170377644457e1e4d8e806af8d7016f5
+      internalID: 2118922960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_14
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1006
+        width: 194
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee49f192973e2647b178b5f71a4fbb1
+      internalID: -1516927256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_15
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 1006
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daadd6a9676a329479db74ebb0a788ac
+      internalID: 1903759839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 751
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d4e7b119a9cae489d24e7e94e72040
+      internalID: 1954992797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 751
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8e7128829b1841bc4d51b7d9521f5
+      internalID: 447594673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 751
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125aa932d1417d94fb64a5171e205b1f
+      internalID: -1899503646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 751
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71060464d22bb341b2eb08dd572d6ef
+      internalID: 1759276699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 751
+        width: 194
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93204a200821b439fd685d8e806605
+      internalID: -175987932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_21
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 751
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e040eb684405834dbcaa1e273b5f9d5
+      internalID: 1074906495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 751
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f45f10410cbbe341b6e3e26f29ca056
+      internalID: -1322917377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_23
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 751
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e3aac4c472e4458ef0c83e5273915
+      internalID: -1195393684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_24
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 751
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633910a122d3ca439a5a40d352c75c0
+      internalID: -1597147124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_25
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 749
+        width: 197
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881119b34f6a528499ba6eea68103155
+      internalID: 923962231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_26
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 749
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf795bc867763438e71072113165d5
+      internalID: 1556506088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_27
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 749
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398c03991441bc4084471a944c11161
+      internalID: -995513020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_28
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 749
+        width: 197
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d90e9f87befee458e550afdc96f153
+      internalID: -809094990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_29
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 749
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640728a444617147859249c83960b1f
+      internalID: -355625365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_30
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 749
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79957132cb5b0244bb7d628e19e1765f
+      internalID: -1376907071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_31
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 749
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce3c36910905847986a229337fd21e
+      internalID: -1544956390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4614de8ad03ad49a64cdf0d59219e3
+      internalID: 695154635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 493
+        width: 197
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b843cf2946f3b4b9a7a42b67e6ba29
+      internalID: 2074944883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0012889b69cbf504e8eaa415fd58be8a
+      internalID: 1330807311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0055045012e348ab048163ada416f
+      internalID: -1114056851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_36
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa2234944010b48974f9a113ee327d
+      internalID: -1224762328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_37
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aadde45aaabc0c48b5b05046a6b85d8
+      internalID: 461384621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 493
+        width: 197
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90265775c29344589239eafe97a7c6
+      internalID: 1090846228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_39
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 493
+        width: 197
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33cbedec39c68479952a384078b523
+      internalID: 475512856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_40
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e019815cc86a44841cf48eb9ff105
+      internalID: -2032729423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_41
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a6193c270ce9c4f965f187bba7c9a5
+      internalID: -1678827060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_42
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 493
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63836c20636cfcf4da2cc9055397bfb2
+      internalID: 534300980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_43
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 493
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099638ac0d2025a46a3984c272bbba51
+      internalID: -1243423031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_44
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 491
+        width: 201
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6470de0c12e024a81d37b05d431558
+      internalID: -818300725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_45
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 489
+        width: 206
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01cc4aa057538479e523e9d4084107
+      internalID: -2036166298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_46
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 487
+        width: 210
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690361069c727274db54e11435faa078
+      internalID: -130793971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_47
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 485
+        width: 214
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef91bac25a4f6d4884fa06227a4f591
+      internalID: -290658336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 220
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06716348dc45f4d9a93993f1f14ba8
+      internalID: 1302503471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3273fb4fa6f274eaca04bd75387a53
+      internalID: 417307225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_50
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 222
+        width: 226
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d655b63f9dceea4292669979d594ba3
+      internalID: -2030242448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_51
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 220
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99febe3cfeaac3a4eb034ed8d17a0b09
+      internalID: 823871345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_52
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 218
+        width: 236
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5aaafe7829a774390e74944e8b99c9
+      internalID: 219949923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_53
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 216
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd59501036e53f42bc930160920a629
+      internalID: -670500394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_54
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 220
+        width: 238
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090508c8e0a37b4bb9a4fa80e73d7f9
+      internalID: -2131284388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_55
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 220
+        width: 237
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef644e6a8e55c7c439710fe5a9939bc7
+      internalID: 1719625979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_56
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 248
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1decafd2f25f34dba0cdde957dfe9d
+      internalID: -639321884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_57
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 248
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a8707248aa1a44ac213ab7029ce40
+      internalID: -1315498005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_58
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 250
+        width: 190
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aacdd9820571b42aae7b1130ff53fe
+      internalID: 9682843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_59
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 250
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b584bf81dcb104a81e8832d2b33a9b
+      internalID: 1096984252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_60
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 250
+        width: 190
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc62975e4f2dee47992727263655dae
+      internalID: -1255938517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_61
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 250
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a346a6c58f2a4898a5008e76d4917
+      internalID: 206200097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_62
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 252
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a856e6d9d7a35469b2bcbb02b33b69
+      internalID: 282872652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_63
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 252
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53518f73d3104a24bb1f63861f9221b9
+      internalID: -1482933110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ebe0bd63d9e74fb38303f9dd96c3c
+      internalID: 88051896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6
+        width: 167
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fd13ae7d8771408c7c14441f0aaab
+      internalID: 144448658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 17
+        width: 122
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d1f942d597a248afaf8b789b3084f
+      internalID: -661474984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_67
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 124
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87513c309fe170d48bdffb4fe602853a
+      internalID: -652856385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_68
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 134
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71003a90dea23e43ae50ce04af4ff59
+      internalID: -1886064092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_69
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 124
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d19e525824f5419b23c094fc03f18
+      internalID: 1394523687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_70
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 134
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ac90d781cb1443b602d3d52866f1e
+      internalID: 2005764670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_71
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 124
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f1b89dc1dc644e8fc0982d0ee006f
+      internalID: -407376557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_72
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836dec81aaf32f14d8124c2a57640fac
+      internalID: 1577464430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_73
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 124
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb6afe77b37f024a90cf64404597302
+      internalID: 1039692310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_74
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 134
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676e3e85d7c96b4696ccf0051dfa3c8
+      internalID: 962826752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_75
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 130
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d158cee4d9e9c468cd3ecf16187681
+      internalID: -748829063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_76
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0a4e12026a7f49aabb9555bc3485e
+      internalID: 412130096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_77
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 130
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849199b5ba9338545a59a38a3af9c294
+      internalID: 1475003577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_78
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ad860ef4785541846a161f599366e
+      internalID: -1042608168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_79
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 130
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b2770010b54646a060535b2c19d77
+      internalID: -1636909312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_80
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29998d3d0f7d53740aabb29a1ac1a049
+      internalID: 1246763115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_81
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 130
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f61a8cfd02dd4ea659f1f2ef01cc0
+      internalID: -200216029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_82
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ac049e07cc3a4994ae4d812b7ffc2
+      internalID: 1859258857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_83
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 131
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e193d818da61174d84eccd38e8c5d5a
+      internalID: -923075606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_84
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 132
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa33d1211a3654ba46fa40ed94e6c8
+      internalID: -1448177747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_85
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 132
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708bef40a8643c4e9de92e941517fe7
+      internalID: 1250842328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_86
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e8f91f74609c444915364d22715bb5
+      internalID: -1642328054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_87
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 132
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd85fa44feed04f8470ca51991592b
+      internalID: 27701904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_88
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6705db48fd46e4daf0222f99b6b916
+      internalID: -285837320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_89
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 133
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e10760272bfb045b0a762368058064
+      internalID: 1518068410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_90
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb3aa251e03ff4e812f5319d163e6e
+      internalID: 1289105801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_91
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 134
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97a18c39b844c4b8fbb7b915e57fec
+      internalID: -1239534318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_92
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 132
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850203331d64e3449937b0aab53af4d2
+      internalID: 890298183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_93
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 45
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6bb71dddb5df4f94f18bad1f8c793
+      internalID: 151913296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_94
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 45
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713594a068da91142969ee7426985c68
+      internalID: -1610968451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_95
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 45
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990cadfe65cd564ca264b772e4646f4
+      internalID: 900626871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_96
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 46
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd7946ded33d1b4db9fe8aaf28fa822
+      internalID: 1513780844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_97
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 46
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473a82c800a5614aa1e097450cd95db
+      internalID: 1399948179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_98
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f80dd0c756c39b4285db4787ad3a764
+      internalID: -717745726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_99
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 111
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320f9ff11cf78f4a89f7541aa7da850
+      internalID: -1314741158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_100
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 45
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6b8132134f0149945c385ced945e8
+      internalID: -841080472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_101
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 45
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3c76230b72b94fad3ed3a747405fe
+      internalID: -1499175349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_102
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 124
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6967144bd3747c24aaab436244a9d2f2
+      internalID: -2008892851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_103
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 122
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6f2cfc58560e4183b3e9646afa40b
+      internalID: -1889228443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_104
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bdf273a301545438cb33b949db4a1c
+      internalID: 1052293475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_105
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 44
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ede05647ff53244b759e80786d1848
+      internalID: 1616656325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_106
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 124
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6003ab4fcdda47b65e1fd4b210b9a
+      internalID: -1808390372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_107
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 118
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890bedd7a37daf42a38fccdca1f5270
+      internalID: 1871921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_108
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c5258e6efe2d41890b10ac24ffe6b
+      internalID: 94027794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_109
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 35
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c9095e270ae64c868616594f04307
+      internalID: -1731075846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_110
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 124
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa176fbe49ce7a74ea7ba040358469ee
+      internalID: -412558205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_111
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 118
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f0155be054e24c9aa749aba3e3c0e
+      internalID: 1297211352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_112
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 36
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5f4915afd3cf47af2ba95c5cb8d0c
+      internalID: -701614625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_113
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 37
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec980302bbf8fd4589d04b81ab5c952
+      internalID: -86181130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_114
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 118
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12134df4eb8218449142fe535e99667
+      internalID: -1031835200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_115
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 38
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646d77df60b8734089c2d7274111fe2
+      internalID: 1947381158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_116
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 110
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbc24af16f9731479749be36e19afe4
+      internalID: -575596800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_117
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dccf942e22631e40a1e6da73d08765a
+      internalID: 2106720413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_118
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4d5d2292eb4049974b282cf9f23a0
+      internalID: -1836852561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_119
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70071dd9c4f44043a308d2db8e0980b
+      internalID: -13557685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_120
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b95cdbc352fb6408ba54a3052575ab
+      internalID: 107129036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_121
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 116
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d0c27361647334b9c031defb440c42
+      internalID: -1816149462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_122
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 44
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb00a52b6ee5440a2cd38df60780da
+      internalID: -1659593983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_123
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 116
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1e75bce297dc4cb511682eadfc4e5
+      internalID: 247086996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_124
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 118
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00340eb19f00e9541aaed861218d77ad
+      internalID: 2130931622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_125
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c846244941f34d83e62d4a45d2969
+      internalID: 1142870986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_126
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2b93226fc146408164ed628b7bcd7
+      internalID: -391870343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_127
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 98
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fa36d258f1f04cb24375a81b88926
+      internalID: 847782262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_128
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7809bd0fab29b46a8843417a8f5a6d
+      internalID: 36912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_129
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a097d574ec124f8a17f3f43869e2b
+      internalID: 1054856310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_130
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 98
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50378f9d34fa3045ab5feb6da55fd91
+      internalID: 1064939454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_131
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6719772a53794e8be84d0ffa99731
+      internalID: 1157919524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_132
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b496c14153f3194383ceac35179fe63
+      internalID: 1116975036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_133
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 101
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3af8ceea216849a9df2ade2a3f933
+      internalID: 429048857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_134
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2199ecc1752b9540ada64e5c8f71e47
+      internalID: 1368272404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_135
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e986642f97c1a4685299acf4150cdf
+      internalID: 1436168169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_136
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b855de0aeccd88c42a640ba3fdb11c81
+      internalID: 869693948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_137
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 98
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f941c3dc159234996e134ede8843b0
+      internalID: -1508082753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_138
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 98
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f06bbcf48a94646bdc6a062c16d0a7
+      internalID: 1690278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_139
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 103
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4753f0511727714fa0f3724abcd1c2d
+      internalID: -2034975742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_140
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 103
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bd8182fed6b348baeae712a8632fc
+      internalID: -278867264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_141
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 105
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea80598c015b8ba4b87643ac70237782
+      internalID: -388669370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_142
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 96
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1462809355749540895f610f3e81ecb
+      internalID: 945303074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_143
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 105
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5914111ef64587847802033e001eff27
+      internalID: -703339795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_144
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 83
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bdcca0647b8d4f92e53e54a5d3b66
+      internalID: 630946696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_145
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 98
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e652c8c4ff9941b2f03fc36168ca4
+      internalID: 1099968571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_146
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 98
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6adee6a3469fd4f993b77b9234e055
+      internalID: -1821536435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_147
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 98
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f2ce4b2b5bd049a64aadaca83e90e
+      internalID: 39458523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_148
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 97
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a4810a63558449a08cf84a2bfa301
+      internalID: 555958874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_149
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de41210fe1813f46ac7009e3a5705b2
+      internalID: 376526921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_150
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 96
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb82428f5fc0f0e4da4c6ec7368e8648
+      internalID: 1620229643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_151
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513686d4137018e458d47cdda551b126
+      internalID: -1861106245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_152
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 84
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c36ebf00aa0e498d27a327133d1db
+      internalID: 1398489471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_153
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 91
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06aae288bb7d040bc75e0678a3ef54
+      internalID: 1680920798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_154
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 91
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255e01a2077f7b408c52686b0a5482d
+      internalID: -640991829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_155
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 90
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff10fbb011cdbc44b67b7181babe03a
+      internalID: 1951691346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_156
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a989430c89be040884511e820160f5
+      internalID: -287662002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_157
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d4e5e1870ac14cb4ea0e34865b913
+      internalID: 829906874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_158
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 62
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef48ee367423734f98b50394e53cc6a
+      internalID: 1599768131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_159
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfec2555d7ab2cf41afaf807440a390b
+      internalID: -539412376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_160
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 63
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec122a361554ad94f9d4862c3eb89884
+      internalID: -1366571401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_161
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f4406d5684bd40a10355fb3551dc7
+      internalID: -1385488770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_162
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 63
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3a0814cb8d5074896a1cbab1c60a56
+      internalID: -214953794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_163
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796e0818ba5bb7e488ec40150201d7f2
+      internalID: 561105224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_164
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34043062b7fe1174ea6585674c980a8d
+      internalID: 609018014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_165
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f5e7e2935b8ce458132e0ae7a0590a
+      internalID: -1961643473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_166
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd014faab3a7c24490c117652c6d6ee
+      internalID: -1664741209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_167
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241302a8e155ef44b89aeb4ab87d1c17
+      internalID: 530323192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_168
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8802f9de94164aa18674ef0a4e491
+      internalID: 200993640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_169
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b651ee5f9f5fa648bdbd5def1182b35
+      internalID: 1698850392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_170
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54accbaee844eb948bc6a53c70c3ecb0
+      internalID: 958904504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_171
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 69
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94f60478d0fac4eab89bb015fae7f7
+      internalID: -1475624559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_172
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 68
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b661cc2bd9f44fb1d3b943a6f046e
+      internalID: 1715710504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_173
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 45
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c1eb03199bc740aaae0c028e0cb81
+      internalID: 2122538239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_174
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55888cb8df0167e43a348579a4748f5a
+      internalID: 103576025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_175
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91695c958f069ab48b864eac052ccbbd
+      internalID: -1017608323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_176
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a57d85aa1a0ac489dd746aebab7e0b
+      internalID: -765790941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_177
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199a6108dbd1954584f3d0f28fd3c16
+      internalID: 1304742002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_178
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 41
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94e0a1eac0df04f8641350b7c298d6
+      internalID: 1033449487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_179
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4161e90b9e926164987ab6373e492802
+      internalID: -1416408861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_180
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b9bd5a8b2e2348afccf9aa32d0d52
+      internalID: -619600242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_181
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe7fd193300a944a265e1b115633d1
+      internalID: -1654777764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_182
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 41
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea9fe2801c49f489495a6d642db937
+      internalID: 1401227931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_183
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d422760d3e58418f08f89f309f452
+      internalID: -588017976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_184
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d4915e12dd144c9ee5fa3afeea438
+      internalID: 1670839627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_185
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e1194e401953428a7338f7bef82bb
+      internalID: 427654265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_186
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 40
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c5c903882e0b74d8514e90991a696c
+      internalID: -1695158882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_187
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c756ad2402a0bc4a85fce7b16f683c0
+      internalID: -1948969977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_188
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e3ca597f45354da779d8b760f4b07
+      internalID: 1669222357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_189
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 39
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8695d2ca7775d8649b445bea4105750e
+      internalID: 1977086358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_190
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b2a8f9fa94ef4a9d1d0db30601052
+      internalID: -180421040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_191
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 45
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75327cfadda4ed943b93ea05de46aba6
+      internalID: -1108976700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_192
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 43
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf454bb5560d949b254ab91a7a182e
+      internalID: 1081018755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_193
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706ce9dd0a06854db96378b98b8334a
+      internalID: -565717401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_194
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 34
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30970b1b4f0d8da4fb7a3df32c1944ca
+      internalID: 1322071978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_195
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 45
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c530a1992afbc468882fe3c306ecde
+      internalID: -544352355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_196
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9d4a6fc4e709f4a8cb9a6a9217ed8f
+      internalID: 985223104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_197
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 45
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac423db3f43ff47b07b63f0d29eb6b
+      internalID: -1000949751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_198
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 41
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535200ef4ee2cae4c89f839cfe148619
+      internalID: -761525930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_199
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 35
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0c774b2cfb8843bb9c82c9677f46a
+      internalID: -668368504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_200
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 45
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff01f53dee72214db51ff9f0c13c1d8
+      internalID: 190361225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_201
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d642b0214ae5a844936d04e2c1f3dee
+      internalID: 2121786906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_202
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 35
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e0320ed2c7274a8844b30028978a6
+      internalID: 1877165964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_203
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e46dc85556ac45b5dded72dfabda5
+      internalID: 1078613189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_204
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2d4d7c18615140b500feea5fceaff
+      internalID: -1496828639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_205
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d5bfb33ae42cc4396f655187ecf785
+      internalID: -1687257927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_206
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6aae972e9cc8b40a10f24f7ad78084
+      internalID: -1671990660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_207
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba97965d586f7104f9a40b27b2c9420f
+      internalID: -995552334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_208
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 25
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d2200301d69d34bb5ac020a9440be6
+      internalID: -215333213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_209
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 31
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac92a9910bfa6024b981ee294d700e92
+      internalID: -803661879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_210
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2290e8b9396cc640a8199511370abc1
+      internalID: -1269076421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_211
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4690b5e54152b042aa2261571fdf832
+      internalID: -1537572847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_212
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb15ba05cf949c4786751cd89f782fe
+      internalID: -1476296814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_213
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b986b96a55a64684d6ed19701178c
+      internalID: 1880228584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_214
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ccd9bcf89c294b889f70766230824
+      internalID: -2099562342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_215
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed71599b42af38940a845b4723b2533d
+      internalID: 1736295584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_216
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e8b14196f9296438eb4a090f714ddd
+      internalID: 570554921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_217
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 33
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4c203ab08bc743949eea25969bfbc
+      internalID: -2260601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_218
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 30
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788706df7e659a54ab5070d1e359b39a
+      internalID: -1045979264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_219
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d94d7d5f5ed014fa9e65edce639edb
+      internalID: -1393267696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_220
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec16fc1253905439d36167deae72fe
+      internalID: -939835767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_221
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30ee689aa4ea346bbbec3aa2e523f6
+      internalID: -1001092288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_222
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d929d499a35604e97ff8d70ae52ca3
+      internalID: -809387978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_223
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 17
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ca4b383ac898408346e8b6c000048
+      internalID: 2015342507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_224
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 17
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e53333532e57943a45c8e30acbd4fb
+      internalID: -1265225986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_225
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 17
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b39b5fcd472d54793e3c895d5eebb1
+      internalID: -1554923258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_226
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 17
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ca559e7b4bef43a0f27ab0fc2a686
+      internalID: 1851593037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_227
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052544d3ea68e5046a382d4ea7b56332
+      internalID: -2085201286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_228
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 17
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733bcfed317fa7469980625ebab5318
+      internalID: 1680526500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_229
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31da77c92903df4f87b91645dce8367
+      internalID: -702334715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_230
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d26d310ba95a24bb369969d1de1c25
+      internalID: -823995866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_231
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d1075be13123408bafcb13bfd3840
+      internalID: -731893028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_232
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5bce0effe4ad41a44c272e1482d29
+      internalID: -1887963285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_233
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cb537b32b49d4a847e278e08c1c3d
+      internalID: -1301564973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi-explosion-one-3_234
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c96d9b1291bb74ca0efc5722fed75b
+      internalID: 88694897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scifi-explosion-one-3_0: -2098191599
+      scifi-explosion-one-3_1: -107492208
+      scifi-explosion-one-3_10: 852700344
+      scifi-explosion-one-3_100: -841080472
+      scifi-explosion-one-3_101: -1499175349
+      scifi-explosion-one-3_102: -2008892851
+      scifi-explosion-one-3_103: -1889228443
+      scifi-explosion-one-3_104: 1052293475
+      scifi-explosion-one-3_105: 1616656325
+      scifi-explosion-one-3_106: -1808390372
+      scifi-explosion-one-3_107: 1871921604
+      scifi-explosion-one-3_108: 94027794
+      scifi-explosion-one-3_109: -1731075846
+      scifi-explosion-one-3_11: 46278928
+      scifi-explosion-one-3_110: -412558205
+      scifi-explosion-one-3_111: 1297211352
+      scifi-explosion-one-3_112: -701614625
+      scifi-explosion-one-3_113: -86181130
+      scifi-explosion-one-3_114: -1031835200
+      scifi-explosion-one-3_115: 1947381158
+      scifi-explosion-one-3_116: -575596800
+      scifi-explosion-one-3_117: 2106720413
+      scifi-explosion-one-3_118: -1836852561
+      scifi-explosion-one-3_119: -13557685
+      scifi-explosion-one-3_12: 742838526
+      scifi-explosion-one-3_120: 107129036
+      scifi-explosion-one-3_121: -1816149462
+      scifi-explosion-one-3_122: -1659593983
+      scifi-explosion-one-3_123: 247086996
+      scifi-explosion-one-3_124: 2130931622
+      scifi-explosion-one-3_125: 1142870986
+      scifi-explosion-one-3_126: -391870343
+      scifi-explosion-one-3_127: 847782262
+      scifi-explosion-one-3_128: 36912937
+      scifi-explosion-one-3_129: 1054856310
+      scifi-explosion-one-3_13: 2118922960
+      scifi-explosion-one-3_130: 1064939454
+      scifi-explosion-one-3_131: 1157919524
+      scifi-explosion-one-3_132: 1116975036
+      scifi-explosion-one-3_133: 429048857
+      scifi-explosion-one-3_134: 1368272404
+      scifi-explosion-one-3_135: 1436168169
+      scifi-explosion-one-3_136: 869693948
+      scifi-explosion-one-3_137: -1508082753
+      scifi-explosion-one-3_138: 1690278464
+      scifi-explosion-one-3_139: -2034975742
+      scifi-explosion-one-3_14: -1516927256
+      scifi-explosion-one-3_140: -278867264
+      scifi-explosion-one-3_141: -388669370
+      scifi-explosion-one-3_142: 945303074
+      scifi-explosion-one-3_143: -703339795
+      scifi-explosion-one-3_144: 630946696
+      scifi-explosion-one-3_145: 1099968571
+      scifi-explosion-one-3_146: -1821536435
+      scifi-explosion-one-3_147: 39458523
+      scifi-explosion-one-3_148: 555958874
+      scifi-explosion-one-3_149: 376526921
+      scifi-explosion-one-3_15: 1903759839
+      scifi-explosion-one-3_150: 1620229643
+      scifi-explosion-one-3_151: -1861106245
+      scifi-explosion-one-3_152: 1398489471
+      scifi-explosion-one-3_153: 1680920798
+      scifi-explosion-one-3_154: -640991829
+      scifi-explosion-one-3_155: 1951691346
+      scifi-explosion-one-3_156: -287662002
+      scifi-explosion-one-3_157: 829906874
+      scifi-explosion-one-3_158: 1599768131
+      scifi-explosion-one-3_159: -539412376
+      scifi-explosion-one-3_16: 1954992797
+      scifi-explosion-one-3_160: -1366571401
+      scifi-explosion-one-3_161: -1385488770
+      scifi-explosion-one-3_162: -214953794
+      scifi-explosion-one-3_163: 561105224
+      scifi-explosion-one-3_164: 609018014
+      scifi-explosion-one-3_165: -1961643473
+      scifi-explosion-one-3_166: -1664741209
+      scifi-explosion-one-3_167: 530323192
+      scifi-explosion-one-3_168: 200993640
+      scifi-explosion-one-3_169: 1698850392
+      scifi-explosion-one-3_17: 447594673
+      scifi-explosion-one-3_170: 958904504
+      scifi-explosion-one-3_171: -1475624559
+      scifi-explosion-one-3_172: 1715710504
+      scifi-explosion-one-3_173: 2122538239
+      scifi-explosion-one-3_174: 103576025
+      scifi-explosion-one-3_175: -1017608323
+      scifi-explosion-one-3_176: -765790941
+      scifi-explosion-one-3_177: 1304742002
+      scifi-explosion-one-3_178: 1033449487
+      scifi-explosion-one-3_179: -1416408861
+      scifi-explosion-one-3_18: -1899503646
+      scifi-explosion-one-3_180: -619600242
+      scifi-explosion-one-3_181: -1654777764
+      scifi-explosion-one-3_182: 1401227931
+      scifi-explosion-one-3_183: -588017976
+      scifi-explosion-one-3_184: 1670839627
+      scifi-explosion-one-3_185: 427654265
+      scifi-explosion-one-3_186: -1695158882
+      scifi-explosion-one-3_187: -1948969977
+      scifi-explosion-one-3_188: 1669222357
+      scifi-explosion-one-3_189: 1977086358
+      scifi-explosion-one-3_19: 1759276699
+      scifi-explosion-one-3_190: -180421040
+      scifi-explosion-one-3_191: -1108976700
+      scifi-explosion-one-3_192: 1081018755
+      scifi-explosion-one-3_193: -565717401
+      scifi-explosion-one-3_194: 1322071978
+      scifi-explosion-one-3_195: -544352355
+      scifi-explosion-one-3_196: 985223104
+      scifi-explosion-one-3_197: -1000949751
+      scifi-explosion-one-3_198: -761525930
+      scifi-explosion-one-3_199: -668368504
+      scifi-explosion-one-3_2: -1129350052
+      scifi-explosion-one-3_20: -175987932
+      scifi-explosion-one-3_200: 190361225
+      scifi-explosion-one-3_201: 2121786906
+      scifi-explosion-one-3_202: 1877165964
+      scifi-explosion-one-3_203: 1078613189
+      scifi-explosion-one-3_204: -1496828639
+      scifi-explosion-one-3_205: -1687257927
+      scifi-explosion-one-3_206: -1671990660
+      scifi-explosion-one-3_207: -995552334
+      scifi-explosion-one-3_208: -215333213
+      scifi-explosion-one-3_209: -803661879
+      scifi-explosion-one-3_21: 1074906495
+      scifi-explosion-one-3_210: -1269076421
+      scifi-explosion-one-3_211: -1537572847
+      scifi-explosion-one-3_212: -1476296814
+      scifi-explosion-one-3_213: 1880228584
+      scifi-explosion-one-3_214: -2099562342
+      scifi-explosion-one-3_215: 1736295584
+      scifi-explosion-one-3_216: 570554921
+      scifi-explosion-one-3_217: -2260601
+      scifi-explosion-one-3_218: -1045979264
+      scifi-explosion-one-3_219: -1393267696
+      scifi-explosion-one-3_22: -1322917377
+      scifi-explosion-one-3_220: -939835767
+      scifi-explosion-one-3_221: -1001092288
+      scifi-explosion-one-3_222: -809387978
+      scifi-explosion-one-3_223: 2015342507
+      scifi-explosion-one-3_224: -1265225986
+      scifi-explosion-one-3_225: -1554923258
+      scifi-explosion-one-3_226: 1851593037
+      scifi-explosion-one-3_227: -2085201286
+      scifi-explosion-one-3_228: 1680526500
+      scifi-explosion-one-3_229: -702334715
+      scifi-explosion-one-3_23: -1195393684
+      scifi-explosion-one-3_230: -823995866
+      scifi-explosion-one-3_231: -731893028
+      scifi-explosion-one-3_232: -1887963285
+      scifi-explosion-one-3_233: -1301564973
+      scifi-explosion-one-3_234: 88694897
+      scifi-explosion-one-3_24: -1597147124
+      scifi-explosion-one-3_25: 923962231
+      scifi-explosion-one-3_26: 1556506088
+      scifi-explosion-one-3_27: -995513020
+      scifi-explosion-one-3_28: -809094990
+      scifi-explosion-one-3_29: -355625365
+      scifi-explosion-one-3_3: 964798321
+      scifi-explosion-one-3_30: -1376907071
+      scifi-explosion-one-3_31: -1544956390
+      scifi-explosion-one-3_32: 695154635
+      scifi-explosion-one-3_33: 2074944883
+      scifi-explosion-one-3_34: 1330807311
+      scifi-explosion-one-3_35: -1114056851
+      scifi-explosion-one-3_36: -1224762328
+      scifi-explosion-one-3_37: 461384621
+      scifi-explosion-one-3_38: 1090846228
+      scifi-explosion-one-3_39: 475512856
+      scifi-explosion-one-3_4: 1590439283
+      scifi-explosion-one-3_40: -2032729423
+      scifi-explosion-one-3_41: -1678827060
+      scifi-explosion-one-3_42: 534300980
+      scifi-explosion-one-3_43: -1243423031
+      scifi-explosion-one-3_44: -818300725
+      scifi-explosion-one-3_45: -2036166298
+      scifi-explosion-one-3_46: -130793971
+      scifi-explosion-one-3_47: -290658336
+      scifi-explosion-one-3_48: 1302503471
+      scifi-explosion-one-3_49: 417307225
+      scifi-explosion-one-3_5: -15667849
+      scifi-explosion-one-3_50: -2030242448
+      scifi-explosion-one-3_51: 823871345
+      scifi-explosion-one-3_52: 219949923
+      scifi-explosion-one-3_53: -670500394
+      scifi-explosion-one-3_54: -2131284388
+      scifi-explosion-one-3_55: 1719625979
+      scifi-explosion-one-3_56: -639321884
+      scifi-explosion-one-3_57: -1315498005
+      scifi-explosion-one-3_58: 9682843
+      scifi-explosion-one-3_59: 1096984252
+      scifi-explosion-one-3_6: -1364851477
+      scifi-explosion-one-3_60: -1255938517
+      scifi-explosion-one-3_61: 206200097
+      scifi-explosion-one-3_62: 282872652
+      scifi-explosion-one-3_63: -1482933110
+      scifi-explosion-one-3_64: 88051896
+      scifi-explosion-one-3_65: 144448658
+      scifi-explosion-one-3_66: -661474984
+      scifi-explosion-one-3_67: -652856385
+      scifi-explosion-one-3_68: -1886064092
+      scifi-explosion-one-3_69: 1394523687
+      scifi-explosion-one-3_7: 164191446
+      scifi-explosion-one-3_70: 2005764670
+      scifi-explosion-one-3_71: -407376557
+      scifi-explosion-one-3_72: 1577464430
+      scifi-explosion-one-3_73: 1039692310
+      scifi-explosion-one-3_74: 962826752
+      scifi-explosion-one-3_75: -748829063
+      scifi-explosion-one-3_76: 412130096
+      scifi-explosion-one-3_77: 1475003577
+      scifi-explosion-one-3_78: -1042608168
+      scifi-explosion-one-3_79: -1636909312
+      scifi-explosion-one-3_8: -112868080
+      scifi-explosion-one-3_80: 1246763115
+      scifi-explosion-one-3_81: -200216029
+      scifi-explosion-one-3_82: 1859258857
+      scifi-explosion-one-3_83: -923075606
+      scifi-explosion-one-3_84: -1448177747
+      scifi-explosion-one-3_85: 1250842328
+      scifi-explosion-one-3_86: -1642328054
+      scifi-explosion-one-3_87: 27701904
+      scifi-explosion-one-3_88: -285837320
+      scifi-explosion-one-3_89: 1518068410
+      scifi-explosion-one-3_9: 1464603706
+      scifi-explosion-one-3_90: 1289105801
+      scifi-explosion-one-3_91: -1239534318
+      scifi-explosion-one-3_92: 890298183
+      scifi-explosion-one-3_93: 151913296
+      scifi-explosion-one-3_94: -1610968451
+      scifi-explosion-one-3_95: 900626871
+      scifi-explosion-one-3_96: 1513780844
+      scifi-explosion-one-3_97: 1399948179
+      scifi-explosion-one-3_98: -717745726
+      scifi-explosion-one-3_99: -1314741158
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
