@@ -8,6 +8,6 @@ Jogo desenvolvido para a competição de jogos UNIGAMES, organizada pela Univers
 
 ------
 
-Tutorial: [FIREBALL LOCKDOWN - How To Play.pdf](Extras/FIREBALL LOCKDOWN - How To Play.pdf)
+Tutorial: [FIREBALL LOCKDOWN - How To Play.pdf](Extras/FIREBALL%20LOCKDOWN%20-%20How%20To%20Play.pdf)
 
 
